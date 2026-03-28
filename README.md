@@ -8,7 +8,7 @@
 * **Role:** Student Digital Ambassador 
 
 ### 🎯 About Me
-I am a first-year student focusing on the intersection of data analysis and digital literacy[cite: 2, 4]. [cite_start]I hope to learn how to build a professional digital presence and leverage collaboration tools effectively for my data science career.
+I am a first-year student focusing on the intersection of data analysis and digital literacy.I hope to learn how to build a professional digital presence and leverage collaboration tools effectively for my data science career.
 
 ### 🛠️ Digital Platforms I Use
 * **GitHub:** For version control and sharing my data science projects.
